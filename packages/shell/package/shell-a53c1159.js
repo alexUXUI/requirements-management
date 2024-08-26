@@ -1,0 +1,1 @@
+const e=()=>{const e=document.createElement("div");e.id="shellRoot",document.body.appendChild(e),document.querySelector("#shellRoot").innerHTML='\n        <div class="content">\n            <h1>App Shell</h1>\n        </div>\n    '};e();export{e as Shell};
